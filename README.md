@@ -1,11 +1,11 @@
-About click-default-group-wheel
-===============================
+About click-default-group-wheel-feedstock
+=========================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/click-default-group-wheel-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/sublee/click-default-group/
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/click-default-group-wheel-feedstock/blob/main/LICENSE.txt)
 
 Summary: Extends click.Group to invoke a command without explicit subcommand name (packaged as a wheel)
 
